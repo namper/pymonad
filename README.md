@@ -1,0 +1,2 @@
+# pymonad
+Monads for python
